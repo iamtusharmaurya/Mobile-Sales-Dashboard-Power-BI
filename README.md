@@ -53,9 +53,17 @@ Mobile-Sales-Dashboard-Power-BI/
 ├── 📁 PBIX/                 # Power BI report files
 │   └── MobileSalesDashboard.pbix
 │
-├── 📁 Screenshots/          # Images used in README or for presentation
-│   ├── dashboard_overview.png
-│   └── top_products_chart.png
+├── 📷 Dashboard Images:         # Images used in README or for presentation
+│   ├── Average.png
+│   ├── Background.jpg
+│   ├── Dashboard.jpg
+│   ├── Dashboard Preview.jpg
+│   ├── Filter.png
+│   ├── Max Icon.png
+│   ├── MTD Report.jpg
+│   ├── Quanity.png
+│   ├── Same Period Last Year report.jpg
+│   └── Transactions.png
 │
 ├── 📁 Docs/                 # Documentation, notes, or insights
 │   └── data_dictionary.md
